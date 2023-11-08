@@ -1,6 +1,6 @@
 <div>
-  <img src='https://mussumipsum.com/_next/static/media/copo.270880b6.svg'/>
-  <h1>NotionX</h1>
+  <img src=''/>
+  <h1>NotioX</h1>
 </div>
 
 <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotioX&theme=dracula' />
