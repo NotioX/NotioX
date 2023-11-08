@@ -1,7 +1,5 @@
-<div>
-  <img src=''/>
-  <h1>NotioX</h1>
-</div>
+
+<img src='./public/logo com texto.png'/>
 
 <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotioX&theme=dracula' />
 
